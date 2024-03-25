@@ -34,3 +34,16 @@ header h1 {
     margin: 20px auto;
 }
 
+/* style.css */
+.table-left {
+    width: 50%; /* Lebar tabel */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table-left td {
+    padding: 20px; /* Padding untuk sel */
+    border: 5px solid #ccc; /* Garis tepi untuk sel */
+}
+
+
