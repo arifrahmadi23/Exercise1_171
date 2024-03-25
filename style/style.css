@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #33dd58;
     color: #fff;
     text-align: center;
     padding: 20px 0;
@@ -50,10 +50,10 @@ button {
 }
 
 footer {
-    background-color: #333;
+    background-color: #33dd58;
     color: #fff;
     text-align: center;
-    padding: 10px 0;
+    padding: 2px 0;
     position: fixed;
     width: 100%;
     bottom: 0;
