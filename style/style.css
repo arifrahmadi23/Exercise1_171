@@ -34,16 +34,15 @@ header h1 {
     margin: 20px auto;
 }
 
-/* style.css */
-.table-left {
-    width: 50%; /* Lebar tabel */
-    margin-left: auto;
-    margin-right: auto;
-}
 
-.table-left td {
-    padding: 20px; /* Padding untuk sel */
-    border: 5px solid #ccc; /* Garis tepi untuk sel */
-}
 
+button {
+    background-color: #4CAF50; /* Green */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease; /* Adding smooth transition */
+}
 
